@@ -1,11 +1,11 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Spis",
+ 	 	 	"trans": "Ekwipunek",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Zadanie",
+ 	 	 	"trans": "Zadania",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -32,21 +32,21 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access unit exchange",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom, aby uzyskać dostęp do wymiany jednostki",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	}
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kosmetyczna cyberwear",
+ 	 	 	 	"trans": "Kosmetyki Cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider donating :)",
+ 	 	 	 	"trans": "Jeżeli lubisz tą grę, proszę o donate'a :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom, aby uzyskać dostęp do handlarza kosmetyków",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -56,13 +56,13 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can use your acquired Caches to print new equipment here",
+ 	 	 	 	"trans": Możesz tutaj użyć swoich zdobytych "Cache" do druku nowego ekwipunku",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	}
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Broń smith",
+ 	 	 	 	"trans": "Kowal",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -80,23 +80,23 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom, aby uzyskać dostęp do terminalu",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trinoky mart",
+ 	 	 	 	"trans": "Trinoky Mart",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	}
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaki",
+ 	 	 	 	"trans": "Bank Arasaka",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the bank",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom, aby uzyskać dostęp do banku",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -110,13 +110,13 @@
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz być przynajmniej 10 poziom, aby uzyskać dostęp do stacji kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	  	"trans": "Punkt Handlowy Lee"
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
@@ -124,7 +124,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być co najmniej 10, aby uzyskać dostęp do kupca",
+ 	 	 	 	"trans": "Musisz mieć co najmniej 10 poziom, aby uzyskać dostęp do kupca",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
